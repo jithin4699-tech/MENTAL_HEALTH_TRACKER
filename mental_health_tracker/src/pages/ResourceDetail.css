@@ -1,0 +1,98 @@
+/* Custom styles for resource content */
+
+.resource-content {
+  line-height: 1.8;
+  font-size: 1.1rem;
+}
+
+.resource-content h1,
+.resource-content h2,
+.resource-content h3,
+.resource-content h4 {
+  color: #f7fafc;
+  margin-top: 1.5rem;
+  margin-bottom: 1rem;
+  font-weight: 600;
+}
+
+.resource-content h1 {
+  font-size: 2rem;
+}
+
+.resource-content h2 {
+  font-size: 1.75rem;
+  margin-top: 2rem;
+}
+
+.resource-content h3 {
+  font-size: 1.5rem;
+  margin-top: 1.75rem;
+}
+
+.resource-content h4 {
+  font-size: 1.25rem;
+}
+
+.resource-content p {
+  margin-bottom: 1.25rem;
+}
+
+.resource-content a {
+  color: #4a6fa5;
+  text-decoration: underline;
+}
+
+.resource-content a:hover {
+  color: #6b8cbe;
+}
+
+.resource-content strong {
+  font-weight: 600;
+  color: #f7fafc;
+}
+
+.resource-content ul,
+.resource-content ol {
+  margin-top: 1rem;
+  margin-bottom: 1.5rem;
+  padding-left: 1.25rem;
+}
+
+.resource-content ul {
+  list-style-type: disc;
+}
+
+.resource-content ol {
+  list-style-type: decimal;
+}
+
+.resource-content li {
+  margin-bottom: 0.5rem;
+}
+
+.resource-content blockquote {
+  border-left: 4px solid #4a6fa5;
+  padding-left: 1rem;
+  font-style: italic;
+  margin: 1.5rem 0;
+  color: #e2e8f0;
+}
+
+.resource-content code {
+  background: rgba(74, 111, 165, 0.2);
+  color: #e2e8f0;
+  padding: 0.2rem 0.4rem;
+  border-radius: 0.25rem;
+  font-family: monospace;
+}
+
+.resource-content figure {
+  margin: 2rem 0;
+}
+
+.resource-content figcaption {
+  text-align: center;
+  font-size: 0.875rem;
+  color: #a0aec0;
+  margin-top: 0.5rem;
+} 
