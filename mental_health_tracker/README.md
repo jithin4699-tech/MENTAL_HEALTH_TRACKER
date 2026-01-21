@@ -1,4 +1,4 @@
-🧠 Elite Coders – Mental Wellness App
+🧠 Mental Wellness App
 
 A modern, feature-rich mental wellness web application built with React and TypeScript.
 The platform empowers users to understand, track, and improve their mental well-being through curated resources, self-assessment tools, journaling, and AI-powered assistance.
